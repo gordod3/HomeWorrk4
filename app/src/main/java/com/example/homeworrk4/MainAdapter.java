@@ -17,7 +17,6 @@ public class MainAdapter extends RecyclerView.Adapter<MainViewHolder> {
         name = new ArrayList<>();
         secondName = new ArrayList<>();
         patronymic = new ArrayList<>();
-
     }
     @NonNull
     @Override
